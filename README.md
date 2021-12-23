@@ -1,9 +1,9 @@
 # vt-server-image
 Microservice to provide panorama tiles
 
-
-## Image source
-https://github.com/mpetroff/pannellum/blob/master/utils/multires/Dockerfile
+## Resource
+- Dockerfile : https://github.com/mpetroff/pannellum/blob/master/utils/multires/Dockerfile
+- How to Generate : https://github.com/mpetroff/pannellum/tree/master/utils/multires
 
 
 ## Run 
